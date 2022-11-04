@@ -70,6 +70,7 @@ tensorflow-estimator==2.10.0
 tensorflow-io-gcs-filesystem==0.27.0
 termcolor==2.0.1
 torch==1.12.1
+torchsummary==1.5.1
 torchvision==0.13.1
 tornado==6.2
 traitlets==5.4.0
